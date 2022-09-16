@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-15 21:50:13
+# UPDATED: 2022-09-17 02:31:13
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 14149
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 76350
+# DOMAIN-SUFFIX: 76387
 # IP-CIDR: 241
 # URL-REGEX: 301
-# TOTAL: 91119
+# TOTAL: 91156
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -1436,6 +1436,7 @@ axadaldlozmqu.com
 axbxgg.com
 axcqasdiots.com
 axeclbthp.com
+axept.io
 axeptio.eu
 axfsqwyidpml.com
 axgkizsmtgks.com
@@ -2363,7 +2364,6 @@ classicallyabsurdphotography.com
 classicspeedway.com
 clc.wanmancn.com
 clckmedia.club
-clearbit.com
 clente.com
 clevergirlscollective.com
 cleverusenet.club
@@ -14682,6 +14682,7 @@ zzxosget.com
 .1933000.com
 .19528681.com
 .19719197.com
+.19805d2bcb.com
 .19811231.me
 .1990tu.com
 .1999019.com
@@ -16006,6 +16007,7 @@ zzxosget.com
 .666826.xyz
 .666827.xyz
 .666829.xyz
+.666832.xyz
 .6669667.com
 .666video.asia
 .668kbet.com
@@ -18256,6 +18258,7 @@ zzxosget.com
 .accordaudienceeducational.com
 .accordinglytongue.com
 .accordinglyvenisonelse.com
+.accoul.com
 .accountcanceled.com
 .accountnotify.com
 .accountprotection.xyz
@@ -24141,6 +24144,7 @@ zzxosget.com
 .api.apps.sina.cn
 .api.appsee.com
 .api.autopilothq.com
+.api.axept.io
 .api.bailingjiankang.com
 .api.bitp.it
 .api.boclinkads.com
@@ -25566,7 +25570,6 @@ zzxosget.com
 .axcdy.cn
 .axecash.com
 .axeldivision.com
-.axept.io
 .axf8.net
 .axfrb.cn
 .axfvc.cn
@@ -30422,6 +30425,7 @@ zzxosget.com
 .certifiedwinners.today
 .cervell.io
 .cesdeals.fr
+.ceseasons.com
 .ceshi10.ink
 .ceshi2.ink
 .ceshi5.ink
@@ -30716,6 +30720,7 @@ zzxosget.com
 .chersc.com
 .chesscherry.com
 .chesscolor.com
+.chestishugli.com
 .chestors.com
 .chestuwygli.com
 .cheumy.com
@@ -31178,7 +31183,9 @@ zzxosget.com
 .clearac.com
 .clearadnetwork.com
 .clearant.club
+.clearbit.com
 .clearbitjs.com
+.clearbitscripts.com
 .clearcabbage.com
 .clearlies.club
 .clearonclick.com
@@ -33755,6 +33762,7 @@ zzxosget.com
 .ctsywy.com
 .cttghjfhsw.com
 .cttracking02.com
+.ctuhn2cop.xyz
 .ctureencroo.site
 .ctureperform.info
 .ctxtfl.com
@@ -33878,6 +33886,7 @@ zzxosget.com
 .custom.plausible.io
 .customad.cnn.com
 .customads.co
+.customapi.top
 .customer-security.online
 .customer.heartinternet.co.uk
 .customerconversio.com
@@ -34102,6 +34111,7 @@ zzxosget.com
 .d.m-net.de
 .d.mingyihui.net
 .d.omsnative.de
+.d.reddit.com
 .d.rexuebi.com
 .d.ruiwen.com
 .d.s11.cn
@@ -34715,6 +34725,7 @@ zzxosget.com
 .d5g0nxmbdku6r.cloudfront.net
 .d5i9o0tpq9sa1.cloudfront.net
 .d5nxst8fruw4z.cloudfront.net
+.d5onopbfw009h.cloudfront.net
 .d5pb47xzjz3fc.cloudfront.net
 .d6.sina.com.cn
 .d6.sinaimg.cn
@@ -34893,6 +34904,7 @@ zzxosget.com
 .daima123.cc
 .daimude.com
 .dainaith.net
+.daineely.net
 .dainifei3.com
 .daipeept.net
 .daipsuwi.net
@@ -37315,6 +37327,7 @@ zzxosget.com
 .dtoo1.space
 .dtpqhwk.cn
 .dtprofit.com
+.dtqiow.cn
 .dtqkuzuhzwklm.com
 .dtrcw.cc
 .dtrk.slimcdn.com
@@ -38015,6 +38028,7 @@ zzxosget.com
 .eb.informabi.com
 .eb.prout.be
 .eb13489b89db.com
+.eb3c3aac94.com
 .eb500d5e2b.cf031d45b5.com
 .eba-amadeus.netdna-ssl.com
 .ebannertraffic.com
@@ -39883,6 +39897,7 @@ zzxosget.com
 .ew16d.package12.com
 .ew3.io
 .ew740.cn
+.ewadakesw.cyou
 .ewaglongoo.com
 .ewalxb.epicsports.com
 .ewasadirec.com
@@ -42422,7 +42437,6 @@ zzxosget.com
 .ga-bq-py-1.appspot.com
 .ga.5.p2l.info
 .ga.canoe.ca
-.ga.clearbit.com
 .ga.dx.com
 .ga.kvideo.io
 .ga.nsimg.net
@@ -46088,6 +46102,7 @@ zzxosget.com
 .hoidenbinate.com
 .hoisin.coocaa.com
 .hoistchart.com
+.hoiwcg.cn
 .hokespotheen.com
 .hokuspokus.tarnkappe.info
 .holder.com.ua
@@ -49880,6 +49895,7 @@ zzxosget.com
 .joblessdrum.com
 .jobsfe.funshion.com
 .jobsyndicate.com
+.joccupangno.xyz
 .jocelynlaura.com
 .jockeryfgtu.club
 .jocowhab.com
@@ -50362,6 +50378,7 @@ zzxosget.com
 .jutprolificlax.com
 .jutyledu.pro
 .juuhe.com
+.juunhkavj.com
 .juvenilebind.com
 .juventuis.fr
 .juvxsbhinuqifu.com
@@ -52433,6 +52450,7 @@ zzxosget.com
 .lemovnde.fr
 .lencool.cn
 .lengthcalk.com
+.lengvtxpfoyi.com
 .lenkmio.com
 .lenmit.com
 .lensesunduke.website
@@ -52762,6 +52780,7 @@ zzxosget.com
 .lightspeedcash.com
 .lightstep.medium.systems
 .lightversionhotel.com
+.ligmnybi.top
 .ligninenchant.com
 .lignumagnatic.cam
 .ligxyv.hackers.co.kr
@@ -53759,6 +53778,7 @@ zzxosget.com
 .loggly.cheatsheet.com
 .loggychops.paulsmith.site
 .logicalmodelvisible.com
+.logicanalytics.io
 .logicsfort.com
 .login-megafon.ru
 .login.creditals-email.space
@@ -53829,6 +53849,7 @@ zzxosget.com
 .logx.mtime.com
 .logxp.ru
 .logystowtencon.info
+.logz.io
 .logz.ru
 .logzh.dantocmiennui.vn
 .logzh.vietnamplus.vn
@@ -56114,6 +56135,7 @@ zzxosget.com
 .mediaplex.com
 .mediaportal.ru
 .mediapush1.com
+.mediapxv.com
 .mediarich.us
 .mediarithmics.com
 .mediarotate.com
@@ -58357,6 +58379,7 @@ zzxosget.com
 .mundanepollution.com
 .mundilite.fr
 .munero.me
+.mungfali.com
 .municalcurit.xyz
 .munitedoploko.site
 .munnin.hicsuntdra.co
@@ -58470,6 +58493,7 @@ zzxosget.com
 .mxcount.com
 .mxdqfoo.cn
 .mxdregs.com
+.mxdztgstli.com
 .mxeinvwitjitk.com
 .mxhbkj.cn
 .mxlidx.ink
@@ -58477,6 +58501,7 @@ zzxosget.com
 .mxmcdn.net
 .mxmrt.com
 .mxmwqo.biosante.com.br
+.mxnr.xyz
 .mxowrwb.cn
 .mxpdsu.bhv.fr
 .mxpnl.com
@@ -58784,6 +58809,7 @@ zzxosget.com
 .n6579.com
 .n69.com
 .n69adserv.com
+.n7181.com
 .n730.timesunion.com
 .n74s9.com
 .n8kt7gf.cn
@@ -59053,6 +59079,7 @@ zzxosget.com
 .ncyveuecqsan.com
 .nd.5.p2l.info
 .nd59w.cn
+.ndbriolenproc.buzz
 .ndbspfpgynbt.com
 .ndct-data.video.iqiyi.com
 .nddmcconmqsy.ru
@@ -59147,6 +59174,7 @@ zzxosget.com
 .nejmqianyan.cn
 .neki.org
 .neko-scan.fr
+.nelado.xyz
 .nellads.com
 .nelo2-col.linecorp.com
 .nelsdecademi.info
@@ -59517,6 +59545,7 @@ zzxosget.com
 .nextlnk9.com
 .nextmillennium.io
 .nextoptim.com
+.nextpsh.top
 .nextstat.com
 .nexttime.ovh
 .neyhdjwpumivpa.com
@@ -60187,6 +60216,7 @@ zzxosget.com
 .nsg.symantec.com
 .nshes.ru
 .nshkedu.com
+.nshynvupjnm.com
 .nsikar.ackermann.ch
 .nsionscorm.com
 .nsjpu.com
@@ -60212,6 +60242,7 @@ zzxosget.com
 .nsumrwmgq.com
 .nsurethatthe.biz
 .nsuucewqbukeba.xyz
+.nswith.com
 .nsxtob.cn
 .nsybcghuv.xyz
 .nt.phpwind.com
@@ -60811,6 +60842,7 @@ zzxosget.com
 .oddscornflower.com
 .oddsresemble.com
 .oddsshitfixes.com
+.odfnxnzrmvxw.com
 .odhrnejegx.com
 .odhwfjrwlcq.xyz
 .odin.goo.mx
@@ -64815,6 +64847,7 @@ zzxosget.com
 .preanalytication.com
 .preauc.com
 .prebid.org
+.prebidwrapper.com
 .precessfetidly.com
 .preciouseffect.com
 .preciousyoke.com
@@ -68078,7 +68111,6 @@ zzxosget.com
 .revcatch.com
 .revcontent.com
 .revdepo.com
-.reveal.clearbit.com
 .revealads.appspot.com
 .revealedsolid.com
 .revealingserious.com
@@ -68377,7 +68409,6 @@ zzxosget.com
 .risale.ru
 .risausso.com
 .rishenglaw.cn
-.risk.clearbit.com
 .riskelaborate.com
 .riskid.security
 .riskoccur.com
@@ -80694,6 +80725,7 @@ zzxosget.com
 .travellingfate.com
 .travelmarketreport.actonservice.com
 .travelnourhai.com
+.travelrobotflower.com
 .travelscream.com
 .travelstool.com
 .traveltogandi.com
@@ -83004,6 +83036,7 @@ zzxosget.com
 .vbscgrnkoceya.com
 .vbshybwwkywkhsw.com
 .vbsjdd.olx.pt
+.vbt.io
 .vbtdzb.fyndiq.se
 .vbtrax.com
 .vbutjg.com
@@ -85970,6 +86003,7 @@ zzxosget.com
 .wretchedsuperiority.com
 .wrfgenwgdfi.xyz
 .wrfiwa.ru
+.wrfqraayuadve.com
 .wrfuxw.roselinlin.com
 .wrinkads.com
 .writeln.ru
@@ -87221,7 +87255,6 @@ zzxosget.com
 .x.bikaer.com
 .x.bloggurat.net
 .x.castanet.net
-.x.clearbit.com
 .x.disq.us
 .x.eroticity.net
 .x.infzm.com
@@ -87474,6 +87507,7 @@ zzxosget.com
 .xhbqczl.com
 .xhct66.com
 .xhera.cn
+.xhflovezyy.asia
 .xhfrt.cn
 .xhfya.cn
 .xhghqrhunp.com
@@ -87714,6 +87748,7 @@ zzxosget.com
 .xkzjq.cn
 .xkzzyk.cn
 .xl-trk.com
+.xl2d.top
 .xldcdnd.com
 .xlengcomyf.com
 .xlgqy.com
@@ -90046,6 +90081,7 @@ zzxosget.com
 .zjxrg.top
 .zjzs.club
 .zk.91post.com
+.zk6c.top
 .zkba9.cn
 .zkbkat.com
 .zkbkcdhieqcoev.com
@@ -90293,6 +90329,7 @@ zzxosget.com
 .ztxbd.com
 .ztyumn.ifeng.com
 .zu08e.cn
+.zuahaqz.cn
 .zubivu.com
 .zuchaptigra.com
 .zuche321.com
